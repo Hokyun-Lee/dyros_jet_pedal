@@ -1,0 +1,21 @@
+MuJoCo Pro Lab license activation key, number 7235, type 6.
+
+Issued to Prof. Jaeheung Park, Seoul National University.
+
+Expires October 1, 2021.
+
+Do not share this file with anyone other than the users covered
+by your license agreement with Roboti LLC. This file activates
+MuJoCo Pro on any computer running any supported OS.
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+510536e0c56d9d2aa18529e1c9fabbbe114d7459ddc1d4696fcf2be55bce930b
+3cd391a42a0919c80ce2ced5318e8bc462ffb3703c84f46bafc1359d1a46b1f8
+abfdfd614aa56e13647c0cbf302826ec6762a7a682669520b0674658a13973f5
+ffaa4bae98bf1634d56c3f3cb6cf14a74ee1a5871d1a8a17e4de50d116eaf7de
+477e43ae054d606481fef037d07bbf81b8876b89ad60dbd5af5d79353e85211f
+15bb315f73845dd5f7d51adfdf8e46d20cd382feed6be81c55aec73afbfa3e0e
+2efd568102da119fa32c622d12fef95e976274105eea62fb0f9c14e4f0cd4fd0
+525339b37ed06733fc191b9fb76d92c6a874b336274e0d0eb38c0a20a62050d4
